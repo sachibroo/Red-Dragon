@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `😁ඔන්න මම ආවා😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️මොකක්ද මගෙන් වෙන්න ඔන?😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -61,17 +61,17 @@ global.premium = ['+94705574038'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sp = '💠'
+global.prefa = ['','!','.','😁','⛔','❗'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.sp = '❗'
 global.mess = {
-    success: 'Done ✅',
+    success: 'Done ☯️',
     admin: 'Only Admins can use it!😉',
     botAdmin: 'Bot wants to be an Admin😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    bot: 'This Feature Is Only For Bot😹',
+    wait: '👉👈පොඩ්ඩක් ඉන්න ...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
@@ -185,7 +185,7 @@ global.rep = { // All Replies = 145
     K21: '😁මන් දන්නෑ🥲',
     K22: 'හොඳයි තමා😌',
     K23: '😂😂මරු හැබැයි',
-    K24: 'මලු🙃',
+    K24: 'පකයා🙃',
     K25: '😘😇❤️',
     K26: '😘😘මෙන්න ඔයාට💕',
     K27: '😊ඇත්තමද?❤️',
