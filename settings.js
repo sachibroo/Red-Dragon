@@ -52,7 +52,7 @@ global.ownertag = '+94705574038' //your tag number
 global.botname = '◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔" // sticker author
-global.dragonemoji = '❤️' // Menu emoji
+global.dragonemoji = '❗' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
