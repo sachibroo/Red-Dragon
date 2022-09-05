@@ -11,8 +11,10 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `😁ඔන්න මම ආවා😇
-🤷‍♀️මොකක්ද මගෙන් වෙන්න ඔන?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `😁ඔන්න මම ආවා
+◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔😇
+🤷‍♀️මොකක්ද මගෙන් වෙන්න ඔන?
+◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -71,7 +73,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😹',
-    wait: '👉👈පොඩ්ඩක් ඉන්න ...',
+    wait: '👉👈පොඩ්ඩක් ඉන්න ◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
