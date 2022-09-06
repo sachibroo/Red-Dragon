@@ -54,7 +54,7 @@ global.ownertag = '+94705574038' //your tag number
 global.botname = '◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔" // sticker author
-global.dragonemoji = '❗' // Menu emoji
+global.dragonemoji = '◐━◐' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
@@ -64,7 +64,7 @@ global.premium = ['+94705574038'] //ur premium numbers
 global.sessionName = 'session'
 global.antitags = false
 global.prefa = ['','!','.','😁','⛔','❗'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sp = '❗'
+global.sp = '╠☣╣'
 global.mess = {
     success: 'Done ☯️',
     admin: 'Only Admins can use it!😉',
@@ -73,7 +73,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😹',
-    wait: '👉👈පොඩ්ඩක් ඉන්න ◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔...',
+    wait: '🤏😎පොඩ්ඩක් හිටපන්  ◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
@@ -296,11 +296,11 @@ global.rep = { // All Replies = 145
     K130: '🤭නිකං ඉන්න එපා ඇඳුමක් ඇඳගන්න😂❤️',
     K131: '😂😂🙏',
     K132: '😂🤭',
-    K133: '😁',
+    K133: 'පොන්නයා',
     K134: '😏☝️',
     K135: 'අඬන්න එපා ඉතිං😒😝',
     K136: '🥴පිත්තු',
-    K137: '🙂',
+    K137: 'පකයා ',
     K138: '😌😌',
     K139: '🥲🥲💔',
     K140: '😍🥰😘💞💕💓💗💖❣️❤️',
