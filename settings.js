@@ -12,8 +12,6 @@ global.APIKeys = {
 }
 
 global.alivemsg = `😁◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔😇
-🛑𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 :- 👇👇👇
-
 ☯𝐑𝐄𝐃 𝐃𝐑𝐀𝐆𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓☯
 IM RED GRAGON Whatsapp BOT` //Costomize Alive Message (◌⃘⃘⃘Ｓᴬ𝗖🅷𝐈Y͞Ａ⃘⃯⃮⃭⃬⃩◌᭄᭄̊̊̊̊࿓࿔ `` )
 
